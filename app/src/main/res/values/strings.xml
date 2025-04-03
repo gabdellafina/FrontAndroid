@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FrontAndroid</string>
+    <string name="input_email">Digite seu email\n</string>
+    <string name="input_pass">Digite sua senha</string>
+    <string name="btn_login">Logar</string>
+    <string name="text_remember">Esqueceu sua senha?</string>
+</resources>

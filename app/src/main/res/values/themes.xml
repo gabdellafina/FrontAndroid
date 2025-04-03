@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FrontAndroid" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorSecondary">@color/dark_blue</item>
+    </style>
+
+    <style name="Theme.FrontAndroid" parent="Base.Theme.FrontAndroid" />
+</resources>
