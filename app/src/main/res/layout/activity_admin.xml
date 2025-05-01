@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/admin_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E3F2FD"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="#1976D2"
+        android:fontFamily="sans-serif-medium"
+        android:padding="16dp"
+        android:text="Usuários"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#BBDEFB"
+        android:layout_marginBottom="8dp"/>
+
+    <ListView
+        android:id="@+id/list_users"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:divider="#BBDEFB"
+        android:dividerHeight="1dp"
+        android:scrollbarSize="6dp" />
+
+</LinearLayout>

@@ -4,4 +4,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="dark_blue">#001969</color>
     <color name="grey">#CCCCCC</color>
+    <color name="azul_ativo">#006CFF</color> <!-- Verde-azulado para status ativo -->
+    <color name="azul_principal">#1976D2</color>
+    <color name="azul_claro_fundo">#E3F2FD</color>
+    <color name="azul_divisor">#BBDEFB</color>
+    <color name="inativo">#0A263E</color>
 </resources>
